@@ -20,7 +20,7 @@
 # JRE version:  (8.0) (build )
 # Java VM: OpenJDK 64-Bit Server VM (25.71-b00 mixed mode windows-amd64 compressed oops)
 # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
-#
+# 2222
 
 ---------------  T H R E A D  ---------------
 
@@ -132,7 +132,7 @@ Launcher Type: SUN_STANDARD
 Environment Variables:
 JAVA_HOME=D:\unity\2021.3.31f1c1\Editor\Data\PlaybackEngines\AndroidPlayer\OpenJDK
 JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF-8
-PATH=C:\Program Files\PlasticSCM5\server;C:\Program Files\PlasticSCM5\client;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\GitHub\Git\cmd;C:\Program Files\dotnet\;D:\unity\2022.3.9f1c1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platform-tools\;C:\Users\春让青见\AppData\Local\Microsoft\WindowsApps;C:\Users\春让青见\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\春让青见\.dotnet\tools
+PATH=C:\Program Files\PlasticSCM5\server;C:\Program Files\PlasticSCM5\client;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\GitHub\Git\cmd;C:\Program Files\dotnet\;D:\unity\2022.3.9f1c1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platform-tools\;C:\Users\       \AppData\Local\Microsoft\WindowsApps;C:\Users\       \AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\       \.dotnet\tools
 USERNAME=Itzel
 OS=Windows_NT
 PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 141 Stepping 1, GenuineIntel
