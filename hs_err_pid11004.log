@@ -1,5 +1,5 @@
 #
-# There is insufficient memory for the Java Runtime Environment to continue.
+# There is insufficient memory for the Java Runtime Environment to continue. 1
 # Native memory allocation (malloc) failed to allocate 1048576 bytes for AllocateHeap
 # Possible reasons:
 #   The system is out of physical RAM or swap space
@@ -132,7 +132,7 @@ Launcher Type: SUN_STANDARD
 Environment Variables:
 JAVA_HOME=D:\unity\2021.3.31f1c1\Editor\Data\PlaybackEngines\AndroidPlayer\OpenJDK
 JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF-8
-PATH=C:\Program Files\PlasticSCM5\server;C:\Program Files\PlasticSCM5\client;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\GitHub\Git\cmd;C:\Program Files\dotnet\;D:\unity\2022.3.9f1c1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platform-tools\;C:\Users\´ºÈÃÇà¼û\AppData\Local\Microsoft\WindowsApps;C:\Users\´ºÈÃÇà¼û\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\´ºÈÃÇà¼û\.dotnet\tools
+PATH=C:\Program Files\PlasticSCM5\server;C:\Program Files\PlasticSCM5\client;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\GitHub\Git\cmd;C:\Program Files\dotnet\;D:\unity\2022.3.9f1c1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platform-tools\;C:\Users\Â´ÂºÃˆÃƒÃ‡Ã Â¼Ã»\AppData\Local\Microsoft\WindowsApps;C:\Users\Â´ÂºÃˆÃƒÃ‡Ã Â¼Ã»\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Â´ÂºÃˆÃƒÃ‡Ã Â¼Ã»\.dotnet\tools
 USERNAME=Itzel
 OS=Windows_NT
 PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 141 Stepping 1, GenuineIntel
